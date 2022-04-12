@@ -41,7 +41,7 @@ The node can be hosted locally or remotely. There are development frameworks lik
 
 ## Deploying
 
-Truffle will compile and deploy the contract with the `migrate` option. By default it will deploy the contract on the `development` network, but Ropsten can be selected by using the `--network` flag.
+Truffle will compile and deploy the contract with the `migrate` option. By default it will deploy the contract on the `development` network, but Ropsten can be selected by specifying it with the `--network` flag.
 
 Local deployment to Ganache.
 ```bash
